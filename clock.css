@@ -1,0 +1,18 @@
+body {
+  background-image: url("space2.jpg");
+}
+
+h1 {
+  color: white;
+  font-family: "Cinzel", "serif";
+  text-align: center;
+  font-size: 50px;
+}
+
+.clock {
+  text-align: center;
+  color: white;
+  font-family: "Cinzel", "serif";
+  font-size: 70px;
+  font-style: bold;
+}
